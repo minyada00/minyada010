@@ -1,0 +1,7 @@
+body {
+    padding: 20px; /* ปรับเพิ่มเล็กน้อย */
+    text-align: center;
+    background-color: rgb(235, 179, 232);
+    color: #333; /* เพิ่มการกำหนดสีข้อความให้ชัดเจน */
+    min-height: 100vh; /* ให้ body ครอบคลุมความสูงเต็มของหน้าจอ */
+}
